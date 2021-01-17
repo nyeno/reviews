@@ -16,12 +16,13 @@
     }
     .container{
         margin: 2.5% 10%;
+        width: 80%;
     }
     .top{
         background-repeat: no-repeat;
         display: flex;
         align-items: center;
-        justify-content: space-between;
+        justify-content: space-around;
         padding-top: 5%;
     }
     h1{
@@ -38,10 +39,10 @@
     text-align: center;
     }
     .inguru{
-        margin-left: 2em;
+        margin-left: 3em;
     }
     .intech{
-        margin-left: 4em;
+        margin-left: 6em;
     }
     .reviews{
         display: flex;
