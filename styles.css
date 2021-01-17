@@ -114,12 +114,18 @@
         .top{
             display: block;
         }
-        .reviews > .irene{
+        .reviews > .irene {
             margin-top: 2em;
+            margin-right: 0;
         }
-        .reviews > .anne{
+
+        .reviews > .anne {
              margin-top: 2em;
+             margin-right: 0;
          }
+         .reviews > .colton{
+            margin-right: 0;
+        }
          .inguru{
             margin-left: 0;
             
